@@ -1,0 +1,38 @@
+.feynman__title {
+    max-width: 648px;
+    text-align: center;
+    line-height: 1.15;
+    font-size: 120px;
+    font-weight: bold;
+    margin: 0;
+    z-index: 1;
+}
+
+.feynman__subtitle {
+    margin-top: 70px;
+    text-align: center;
+    line-height: 51px;
+    font-size: 36px;
+    font-weight: normal;
+    z-index: 1;
+}
+
+.feynman__link {
+    color: #2F80ED;
+    position: absolute;
+    right: 48px;
+    top: 50vh;
+    line-height: 51px;
+    font-size: 36px;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.feynman__illustration {
+    position: absolute;
+    z-index: 0;
+    left: 0;
+    bottom: 0;
+    height: 637px;
+    width: 867px;
+}

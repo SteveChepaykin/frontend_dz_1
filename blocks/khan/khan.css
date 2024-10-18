@@ -1,0 +1,9 @@
+@import url(./__quote/khan__quote.css);
+@import url(./__book/khan__book.css);
+@import url(./__other/khan__other.css);
+
+.khan {
+    margin: 100px 0 0;
+    padding: 105px 0 0;
+    background-color: #F2F2F2;
+}

@@ -1,0 +1,11 @@
+@import url(./__other/feynman__other.css);
+
+.feynman {
+    height: 100vh;
+    height: 790px;
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    align-items: center;
+    background-color: #F2F2F2;
+}

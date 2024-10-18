@@ -1,0 +1,18 @@
+.footer__column_content_copyright {
+    flex-basis: 711px;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer__column_content_info {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+
+.footer__column_content_social {
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
